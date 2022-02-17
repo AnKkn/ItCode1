@@ -16,6 +16,9 @@ body {
     border: none;
     border-radius: 10px;
 }
+
+.save-task:hover {background-color: rgb(157, 194, 243)}
+
 .InputTitle, .InputDescription {
     width: 150px;
     height: 30px;
